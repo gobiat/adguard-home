@@ -1114,3 +1114,175 @@
 ||frivgalaxy.cc^
 ||frivgalaxy.me^
 ||frivgalaxy.xyz^
+
+# ============================
+# Major browser gaming portals
+# ============================
+||y8.com^
+||miniclip.com^
+||poki.com^
+||crazygames.com^
+||armorgames.com^
+||kongregate.com^
+||addictinggames.com^
+||agame.com^
+||friv.com^
+||kizi.com^
+||kiz10.com^
+||silvergames.com^
+||gamesgames.com^
+||bgames.com^
+||a10.com^
+||1001games.com^
+||gameflare.com^
+||gamepix.com^
+||lagged.com^
+
+# ============================
+# “Top online gaming sites” (curated lists)
+# ============================
+||pogo.com^
+||bigfishgames.com^
+||shockwave.com^
+||zynga.com^
+||nick.com^
+||pbskids.org^
+||funbrain.com^
+||primarygames.com^
+||coolmathgames.com^
+||coolmath.com^
+||newgrounds.com^
+||itch.io^ 
+
+# ============================
+# Major game platforms / launchers
+# ============================
+||steampowered.com^
+||store.steampowered.com^
+||epicgames.com^
+||store.epicgames.com^
+||ea.com^
+||origin.com^
+||gog.com^
+||battlenet.com^
+||battle.net^
+||riotgames.com^
+||xbox.com^
+||playstation.com^
+||nintendo.com^
+||minecraft.net^
+||roblox.com^
+||web.roblox.com^
+||ubisoft.com^ 
+
+# ============================
+# MMO / online worlds
+# ============================
+||runescape.com^
+||jagex.com^
+||neopets.com^
+||gaiaonline.com^
+||wizard101.com^
+||pirate101.com^
+||adventurequest.com^
+||aq.com^
+||aqworlds.com^
+||adventurequest3d.com^
+||aq3d.com^
+||battleon.com^
+||epicduel.com^
+||dragonfable.com^
+||mechquest.com^
+||herosmash.com^
+||habbo.com^
+||habbo.de^
+||habbo.es^
+||habbo.fr^
+||habbo.it^
+||habbo.nl^
+||habbo.com.br^
+||toontownrewritten.com^
+||clubpenguinrewritten.pw^
+||clubpenguinonline.com^
+
+# ============================
+# IO / casual distraction games
+# ============================
+||slither.io^
+||agar.io^
+||paper.io^
+||diep.io^
+||hole.io^
+||wormate.io^
+||wormax.io^
+||krunker.io^
+||shellshock.io^
+||bonk.io^
+||mope.io^
+||zombs.io^
+||zombsroyale.io^
+||surviv.io^
+||starve.io^
+||lordz.io^
+||lordz2.io^
+||evowars.io^
+||smashkarts.io^
+||shellshockers.io^
+||venge.io^
+||1v1.lol^
+||justfall.lol^
+||lolbeans.io^
+||stumbleguys.com^
+||territorial.io^
+||taming.io^
+||stabfish.io^
+
+# ============================
+# German / EU browser gaming portals
+# ============================
+||spielaffe.de^
+||spielen.com^
+||spielen.de^
+||1001spiele.de^
+||spielen-kostenlos.de^
+||spielen-kostenlos-online.de^
+||spielen-gratis.de^
+||spielen-gratis.com^
+||spielen-gratis.net^
+||spielenonline.org^
+||kostenlosspielen.net^
+||kostenlosspielen.de^
+||kostenlose-spiele.com^
+||kostenlose-spiele.de^
+||spiele-umsonst.de^
+||spiele-kostenlos-online.de^
+||spiele-kostenlos.org^
+||spiele-kostenlos.net^
+||spiele-kostenlos.com^
+||spiele-kostenlos.info^
+||spiele-kostenlos.eu^
+
+# ============================
+# Gaming news / meta sites (optional but often distracting)
+# ============================
+||ign.com^
+||nexusmods.com^
+||hltv.org^
+||op.gg^
+||mobalytics.gg^
+||gamewith.jp^
+||game8.jp^
+||gamer.com.tw^
+||inven.co.kr^
+||ruliweb.com^ 
+
+# ============================
+# Streaming / esports platforms (optional)
+# ============================
+||twitch.tv^
+||douyu.com^
+||sooplive.co.kr^ 
+
+# ============================
+# End of list
+# ============================
