@@ -1,0 +1,27 @@
+# ============================================================
+# Custom Tracker Blocklist
+# Long-tail third-party trackers found unblocked in AdGuard Home
+# query log audit (14d window, filtering-enabled clients only, 2026-08-26)
+# Maintainer: Fabrice
+# ============================================================
+
+# Amazon Advertising
+||api.stores.eu-west-1.prod.paets.advertising.amazon.dev^
+
+# APA (Austria Presse Agentur) / ORF trackers
+||statstracker-apa.diginews-service.apa.at^
+||app-analytics.orf.at^
+
+# TrustYou (review/rating widget tracker)
+||analytics.trustyou.com^
+||analytics-eu.trustyou.com^
+
+# Fit Analytics (e-commerce sizing widget tracker)
+||integrations.fitanalytics.com^
+
+# Sovendus (voucher/ad network tracker)
+||press-tracking-api.sovendus.com^
+
+# Misc click/analytics trackers
+||clk.hitrackthat.com^
+||analytics.compliance-essentials.de^
