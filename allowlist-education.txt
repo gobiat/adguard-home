@@ -1,0 +1,9 @@
+# ============================================================
+# Education Tools Allowlist
+# Sites that look like "games" to a blocklist but are used in
+# school/homework contexts (teacher-assigned quizzes, math practice).
+# Maintainer: Fabrice
+# ============================================================
+blooket.com
+hoodamath.com
+coolmathgames.com
