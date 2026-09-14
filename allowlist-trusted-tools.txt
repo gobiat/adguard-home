@@ -1,0 +1,15 @@
+# ============================================================
+# Trusted Tools & Services Allowlist
+# Mostly hit by Phishing Army / Steven Black / Peter Lowe as
+# false positives (tracking-link domains, newer SaaS tools).
+# Maintainer: Fabrice
+# ============================================================
+login.tado.com
+homair.com
+bp242.keap-link003.com
+www.genspark.ai
+events.framer.com
+track.pstmrk.it
+formulae.brew.sh
+www.flickr.com
+my.asfinag.at

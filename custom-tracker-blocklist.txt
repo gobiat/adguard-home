@@ -25,3 +25,4 @@
 # Misc click/analytics trackers
 ||clk.hitrackthat.com^
 ||analytics.compliance-essentials.de^
+diag.meethue.com^

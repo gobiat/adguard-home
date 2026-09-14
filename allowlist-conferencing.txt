@@ -1,0 +1,12 @@
+# ============================================================
+# Video Conferencing / Collaboration Allowlist
+# These get caught by general-purpose tracker/ad blocklists
+# (Steven Black, OISD Big, Peter Lowe) but are needed for work.
+# Maintainer: Fabrice
+# ============================================================
+webex.com
+cisco.com
+wbx2.com
+teams.microsoft.com
+skype.com
+lync.com

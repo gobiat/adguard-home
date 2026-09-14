@@ -1,0 +1,7 @@
+# ============================================================
+# Homelab Infrastructure Allowlist
+# Own/local services that must never be DNS-blocked.
+# Maintainer: Fabrice
+# ============================================================
+hl.pmx01
+voip.stiegeler.com

@@ -1,0 +1,12 @@
+# ============================================================
+# Approved Games Allowlist
+# Domains for specific games the family has decided to allow,
+# even though they're (correctly) listed on the games blocklists.
+# Maintainer: Fabrice
+# ============================================================
+nintendo.com
+www.rubiks.com
+supercell.com
+id.supercell.com
+brawlstars.inbox.supercell.com
+dionisiou27.github.io
