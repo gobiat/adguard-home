@@ -141,3 +141,21 @@
 ||poki.de.com^
 ||ysocorp.com^
 ||slither.com^
+
+# Weitere Browser-Game-Seiten (Google-Recherche, 2026-09-14)
+||playgama.com^
+||playgamor.com^
+||playupi.com^
+||playhop.my^
+||web-games.io^
+||mirageonlineclassic.com^
+||minix.games^
+||weeklyarcade.games^
+||gamulo.com^
+||freetogame.com^
+||snake.io^
+||slithergame.io^
+||classroom-6x.io^
+||classroom-6x.org^
+||class6x.gitlab.io^
+||classroom-6x.bitbucket.io^
