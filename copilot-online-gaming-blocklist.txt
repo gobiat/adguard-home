@@ -159,3 +159,15 @@
 ||classroom-6x.org^
 ||class6x.gitlab.io^
 ||classroom-6x.bitbucket.io^
+
+# Auto-sweep 2026-09-14
+||gameforge.com^
+||koggames.com^
+||boardgamearena.com^
+||mitos.is^
+||blooket.com^
+||hoodamath.com^
+||basketbros-unblocked.github.io^
+||unblockedgames66.gitlab.io^
+||unblocked-2026.github.io^
+||unblocked66world.com^
