@@ -190,3 +190,6 @@
 ||github-games.gitlab.io^
 ||nativegames.net^
 ||unblockedgame67.github.io^
+
+# Explicit owner decision 2026-10-01: block itch.io entirely (indie game platform; bare rule is intentional)
+||itch.io^
