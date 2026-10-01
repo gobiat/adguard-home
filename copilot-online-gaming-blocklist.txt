@@ -171,3 +171,25 @@
 ||unblockedgames66.gitlab.io^
 ||unblocked-2026.github.io^
 ||unblocked66world.com^
+
+# Auto-sweep 2026-10-01
+||senpa.io^
+||agma.io^
+||gota.io^
+||spinz.io^
+||classrooms6xunblocked.github.io^
+||classroom6xx.gitlab.io^
+||6xunblockedgames.gitlab.io^
+||classrooms6x.gitlab.io^
+||classroom-6x-online.gitlab.io^
+||gamepluto.gitlab.io^
+||gitlabgames.gitlab.io^
+||ubg66.gitlab.io^
+||66games.gitlab.io^
+||66ez.gitlab.io^
+||unblocked-games-2026.github.io^
+||git-hub-games.github.io^
+||only-game.github.io^
+||github-games.gitlab.io^
+||nativegames.net^
+||unblockedgame67.github.io^
