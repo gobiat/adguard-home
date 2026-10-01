@@ -13,3 +13,7 @@ track.pstmrk.it
 formulae.brew.sh
 www.flickr.com
 my.asfinag.at
+
+# GMX mail (blocked by "Games Block DNS Bypass" list); ||...^ also covers subdomains
+||gmx.com^
+||gmx.net^
