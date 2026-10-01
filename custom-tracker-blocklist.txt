@@ -26,3 +26,8 @@
 ||clk.hitrackthat.com^
 ||analytics.compliance-essentials.de^
 diag.meethue.com^
+
+# Supercell telemetry (supercell.com itself is no longer blocked by the games lists,
+# so Supercell ID login works; only analytics/attribution hosts stay blocked)
+||collector.snowplow.supercell.com^
+||inventory.mtech.supercell.com^

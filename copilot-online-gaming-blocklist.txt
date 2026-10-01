@@ -31,7 +31,6 @@
 ||nick.com^
 ||funbrain.com^
 ||primarygames.com^
-||coolmathgames.com^
 ||coolmath.com^
 ||mathplayground.com^
 
@@ -165,8 +164,6 @@
 ||koggames.com^
 ||boardgamearena.com^
 ||mitos.is^
-||blooket.com^
-||hoodamath.com^
 ||basketbros-unblocked.github.io^
 ||unblockedgames66.gitlab.io^
 ||unblocked-2026.github.io^
