@@ -17,3 +17,7 @@ my.asfinag.at
 # GMX mail (blocked by "Games Block DNS Bypass" list); ||...^ also covers subdomains
 ||gmx.com^
 ||gmx.net^
+
+# Newsletter unsubscribe/click trackers (Canva via AppsFlyer ESP clicks); narrow on purpose, not all of appsflyer.com
+||click.engage.canva.com^
+||espclicks.appsflyer.com^
