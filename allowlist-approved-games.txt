@@ -4,7 +4,17 @@
 # even though they're (correctly) listed on the games blocklists.
 # Maintainer: Fabrice
 # ============================================================
-nintendo.com
+# Nintendo (Switch, Nintendo account/app, eShop) — family exception to the games blocklists. Adblock syntax ||domain^
+# allows the domain AND all subdomains; the old plain "nintendo.com" (hosts syntax) only allowed the bare domain, so
+# baas.nintendo.com (account login) and *.nintendo.net stayed blocked by ||nintendo.com^ (fixed 2026-10-25).
+||nintendo.com^
+||nintendo.net^
+||nintendowifi.net^
+||nintendo.de^
+||nintendo-europe.com^
+||nintendo.eu^
+||nintendo.co.jp^
+||nintendoswitch.com^
 www.rubiks.com
 supercell.com
 id.supercell.com
