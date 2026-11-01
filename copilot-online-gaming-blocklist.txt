@@ -201,3 +201,8 @@
 ||zorb.io^
 ||drifthunters3d.io^
 ||snowrider3dsanta.io^
+
+# Auto-sweep 2026-11-01
+||imagineisland.game^
+||drawaria.online^
+||sketchful.io^
