@@ -201,3 +201,11 @@
 ||zorb.io^
 ||drifthunters3d.io^
 ||snowrider3dsanta.io^
+
+# Spiele-Umwege, gefunden im AdGuard-Log des Surface Pro Kids (2026-11-03): das Portal war gesperrt, die Spiele luden
+# trotzdem über das eigene CDN. Nur spielspezifische Hosts — NICHT s3.yandex.net/yastatic.net (geteilte Yandex-Plattform).
+||poki-cdn.com^
+||poki-gdn.com^
+||poki.io^
+||innogamescdn.com^
+||games.s3.yandex.net^
