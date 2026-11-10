@@ -209,3 +209,8 @@
 ||poki.io^
 ||innogamescdn.com^
 ||games.s3.yandex.net^
+
+# Auto-sweep 2026-11-01
+||imagineisland.game^
+||drawaria.online^
+||sketchful.io^
