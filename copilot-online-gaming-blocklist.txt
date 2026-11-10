@@ -214,3 +214,18 @@
 ||imagineisland.game^
 ||drawaria.online^
 ||sketchful.io^
+
+# Auto-sweep 2026-11-10
+||fastplaygames.com^
+||dinogame.gg^
+||cellsnake.com^
+||scoreithigh.com^
+||doxplay.in^
+||survev.io^
+||easegame.com^
+||mexicantrain.com^
+||gplusunblockgames.gitlab.io^
+||falorant-5qk.pages.dev^
+||webgames-b3q.pages.dev^
+||zynfexgame-arcade.pages.dev^
+||space-shooter-x.onrender.com^
