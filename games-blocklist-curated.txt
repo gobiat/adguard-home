@@ -1,7 +1,7 @@
 ! Curated games blocklist: IREK-szef AGH.txt + frozen Mafraysse snapshot, minus exclusions
-! Generated: 2026-11-10T14:31:25Z by agent/scripts/curate_games_blocklist.sh
+! Generated: 2026-11-16T08:41:39Z by agent/scripts/curate_games_blocklist.sh
 ! Excludes: regex rules, shared-gTLD wildcards, public suffixes, games-blocklist-exclusions.txt
-! IREK upstream: 8219 lines, 39 non-specific dropped. Result: 11810 domain rules.
+! IREK upstream: 8219 lines, 39 non-specific dropped. Result: 11809 domain rules.
 ||007arcadegames.com^
 ||01-casino.com^
 ||01-chase.com^
@@ -7940,7 +7940,6 @@
 ||netcartas.com.br^
 ||netdragons.com^
 ||netflix-movies.cc^
-||netflix.com^
 ||netgame.com^
 ||nethry.cz^
 ||netigame.fr^

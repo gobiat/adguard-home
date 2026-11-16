@@ -108,3 +108,6 @@ rubiks.com
 hoodamath.com
 coolmathgames.com
 blooket.com
+
+! --- Streaming, not a game (Fabrice 2026-11-16: "netflix soll frei sein") ---
+netflix.com
