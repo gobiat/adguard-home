@@ -22,5 +22,6 @@ my.asfinag.at
 ||click.engage.canva.com^
 ||espclicks.appsflyer.com^
 
-# Google Ads campaign management (blocked by StevenBlack/Peter Lowe as ad domain)
+# Google Ads campaign management + Google Ads API (blocked by StevenBlack/Peter Lowe as ad domains)
 ||ads.google.com^
+||googleads.googleapis.com^
