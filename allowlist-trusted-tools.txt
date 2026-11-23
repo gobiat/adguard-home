@@ -25,3 +25,8 @@ my.asfinag.at
 # Google Ads campaign management + Google Ads API (blocked by StevenBlack/Peter Lowe as ad domains)
 ||ads.google.com^
 ||googleads.googleapis.com^
+# Google Ads Android app (blocked by StevenBlack/Peter Lowe as ad/telemetry domains)
+||adwords.google.com^
+||ogads-pa.googleapis.com^
+||appsgrowthpromo-pa.googleapis.com^
+||xgapromomanager-pa.googleapis.com^
